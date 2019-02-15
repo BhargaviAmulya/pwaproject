@@ -1,0 +1,51 @@
+{
+  "basic":{
+    "image":"profile.jpg",
+    "name":"AMULYA",
+    "email":"amulyamootina@gmail.com",
+    "number":"9876543210",
+    "address":"Pragati Engineering College,Surampalem."
+  },
+  "career":{
+    "info":"To work for an organization which provides me the opportunity to improve my skills."
+  },
+  "education":[
+  {
+    "institute":"Pragati Engineering College",
+    "degree":"B.Tech",
+    "passedoutyear":"2020"
+  },
+  {
+    "institute":"Aditya Junior College",
+    "degree":"Inter",
+    "passedoutyear":"2016"
+  },
+  {
+    "institute":"Meher Vidya Niketan",
+    "degree":"SSC",
+    "passedoutyear":"2014"
+  }
+],
+"technical":[
+  {
+  "title":"Programming Languages",
+  "content":["C","Java"," Python"]
+},
+{
+  "title":"DataBase",
+  "content":["MySQL"]
+},
+{
+  "title":"packages",
+  "content":["MSOffice"]
+}
+],
+"achievements":[
+  {
+    "info":"Nptel Elite Certificate for DBMS"
+  },
+  {
+    "info":"Nptel Elite Certificate for Python"
+  }
+]
+}
